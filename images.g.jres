@@ -1,0 +1,54 @@
+{
+    "image16": {
+        "data": "hwQQABAAAAAzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMw==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "player character"
+    },
+    "image3": {
+        "data": "hwQLAAsAAABVVVVVVQUAAFVVVVVVBQAAVVVVVVUFAABVVVVVVQUAAFVVVVVVBQAAVVVVVVUFAABVVVVVVQUAAFVVVVVVBQAAVVVVVVUFAABVVVVVVQUAAFVVVVVVBQAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "bertha projectile"
+    },
+    "image5": {
+        "data": "hwQKAAoAAABERERERAAAAEREREREAAAAREREREQAAABERERERAAAAEREREREAAAAREREREQAAABERERERAAAAEREREREAAAAREREREQAAABERERERAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "chase"
+    },
+    "image7": {
+        "data": "hwQFAAUAAAC7uwsAu7sLALu7CwC7uwsAu7sLAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "albert projectile"
+    },
+    "image15": {
+        "data": "hwQFAAUAAABERAQAREQEAEREBABERAQAREQEAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "chase projectile"
+    },
+    "image4": {
+        "data": "hwQEAAQAAACIiAAAiIgAAIiIAACIiAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "daryl projectile"
+    },
+    "image10": {
+        "data": "hwQEAAQAAAAREQAAIRIAACESAAAREQAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "player projectile"
+    },
+    "image8": {
+        "data": "hwQQABAAAAC+u7vMzLu76+u7u8zMu7u+u767zMy767u767vMzLu+u7u7vszM67u7u7vrzMy+u7vMzMzO7MzMzMzMzOzOzMzMzMzM7M7MzMzMzMzO7MzMzLu768zMvru7u7u+zMzru7u767vMzLu+u7u+u8zMu+u767u7zMy7u76+u7vMzLu76w==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "daryl"
+    },
+    "anim1": {
+        "namespace": "myAnimations",
+        "id": "anim1",
+        "mimeType": "application/mkcd-animation",
+        "data": "OTYwMDBhMDAwYTAwMDIwMDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw",
+        "displayName": "chase animation"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
